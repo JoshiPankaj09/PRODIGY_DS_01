@@ -11,7 +11,7 @@ Explore global population trends using Python, pandas, numpy, matplotlib, seabor
 
 - **pandas, numpy**: Data manipulation and numerical operations.
 - **matplotlib, seaborn**: Data visualization for insightful plots.
-- **scipy**: Statistical analysis and hypothesis testing.
+- **scipy**: Statistical analysis.
 
 ## Project Highlights
 
