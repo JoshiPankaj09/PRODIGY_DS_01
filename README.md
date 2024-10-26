@@ -11,8 +11,8 @@ Explore global population trends using Python, pandas, numpy, matplotlib, seabor
 ![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-07%20020204.png?raw=true)
 ![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-07%20020314.png?raw=true)
 ![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-07%20020412.png?raw=true)
-![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-07%20020132.png?raw=true)
-![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-07%20020132.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20165947.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20170059.png?raw=true)
 
 ## Key Libraries
 
